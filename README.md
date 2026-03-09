@@ -26,6 +26,8 @@
     <img src="https://skillicons.dev/icons?i=js,python,rust,react,html,css,tailwind,bootstrap,nodejs&amp;perline=9" alt="Tech Stack Row 1" />
     <br/>
     <img src="https://skillicons.dev/icons?i=django,flask,mysql,sqlite,docker,kubernetes,aws,git,vscode&amp;perline=9" alt="Tech Stack Row 2" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=arch,discord,discordjs,raspberrypi,unreal&amp;perline=9" alt="Tech Stack Row 3" />
   </a>
 </p>
 
@@ -44,26 +46,18 @@
 <p align="center">
   <a href="https://github.com/zVSciy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=zVSciy&amp;show_icons=true&amp;cache_seconds=7200&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;bg_color=00000000&amp;hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=zVSciy&amp;show_icons=true&amp;cache_seconds=7200&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true" />
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zVSciy&amp;show_icons=true&amp;cache_seconds=7200&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;bg_color=00000000&amp;hide_border=true" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-puce-57.vercel.app/api?username=zVSciy&amp;show_icons=true&amp;cache_seconds=7200&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;bg_color=00000000&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha-puce-57.vercel.app/api?username=zVSciy&amp;show_icons=true&amp;cache_seconds=7200&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true" />
+      <img height="180em" src="https://github-readme-stats-alpha-puce-57.vercel.app/api?username=zVSciy&amp;show_icons=true&amp;cache_seconds=7200&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;bg_color=00000000&amp;hide_border=true" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/zVSciy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zVSciy&amp;langs_count=8&amp;layout=compact&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=00000000&amp;hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zVSciy&amp;langs_count=8&amp;layout=compact&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true" />
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zVSciy&amp;langs_count=8&amp;layout=compact&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=00000000&amp;hide_border=true" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha-puce-57.vercel.app/api/top-langs/?username=zVSciy&amp;langs_count=8&amp;layout=compact&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=00000000&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha-puce-57.vercel.app/api/top-langs/?username=zVSciy&amp;langs_count=8&amp;layout=compact&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true" />
+      <img height="180em" src="https://github-readme-stats-alpha-puce-57.vercel.app/api/top-langs/?username=zVSciy&amp;langs_count=8&amp;layout=compact&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=00000000&amp;hide_border=true" alt="Top Languages" />
     </picture>
   </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zVSciy&amp;theme=github-dark-blue&amp;background=00000000&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=zVSciy&amp;theme=default&amp;background=00000000&amp;hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=zVSciy&amp;theme=github-dark-blue&amp;background=00000000&amp;hide_border=true" alt="GitHub Streak" />
-  </picture>
 </p>
 
 ---
