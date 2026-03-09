@@ -27,7 +27,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=django,flask,mysql,sqlite,docker,kubernetes,aws,git,vscode&amp;perline=9" alt="Tech Stack Row 2" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=arch,discord,discordjs,raspberrypi,unreal&amp;perline=9" alt="Tech Stack Row 3" />
+    <img src="https://skillicons.dev/icons?i=arch,discordjs,raspberrypi,unreal&amp;perline=9" alt="Tech Stack Row 3" />
   </a>
 </p>
 
