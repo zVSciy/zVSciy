@@ -12,7 +12,7 @@
 ### Featured Project
 
 <a href="https://github.com/CTF-FlagFrenzy">
-  <img src="https://img.shields.io/badge/CTF--FlagFrenzy-TopHack%202025-c9302c?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF--FlagFrenzy-TopHack%202025-c9302c?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=white" />
 </a>
 
 > **[CTF-FlagFrenzy](https://github.com/CTF-FlagFrenzy)** — A self-hosted Capture the Flag platform built for HTL Villach's TopHack 2025. Powered by K3s, React, Node.js & PostgreSQL with dynamic flag generation, anti-cheat, real-time scoreboards, and a full admin panel.
@@ -22,11 +22,11 @@
 ### Tech Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,python,rust,react,html,css,tailwind,bootstrap,nodejs,django,flask,mysql,sqlite,docker,kubernetes,aws,git,vscode&theme=dark&perline=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,python,rust,react,html,css,tailwind,bootstrap,nodejs,django,flask,mysql,sqlite,docker,kubernetes,aws,git,vscode&theme=light&perline=9" />
-    <img src="https://skillicons.dev/icons?i=js,python,rust,react,html,css,tailwind,bootstrap,nodejs,django,flask,mysql,sqlite,docker,kubernetes,aws,git,vscode&perline=9" alt="Tech Stack" />
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,rust,react,html,css,tailwind,bootstrap,nodejs&amp;perline=9" alt="Tech Stack Row 1" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=django,flask,mysql,sqlite,docker,kubernetes,aws,git,vscode&amp;perline=9" alt="Tech Stack Row 2" />
+  </a>
 </p>
 
 ---
@@ -44,25 +44,25 @@
 <p align="center">
   <a href="https://github.com/zVSciy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=zVSciy&show_icons=true&cache_seconds=7200&theme=github_dark&bg_color=00000000&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=zVSciy&show_icons=true&cache_seconds=7200&theme=default&bg_color=00000000&hide_border=true" />
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zVSciy&show_icons=true&cache_seconds=7200&theme=default&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=zVSciy&amp;show_icons=true&amp;cache_seconds=7200&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;bg_color=00000000&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=zVSciy&amp;show_icons=true&amp;cache_seconds=7200&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true" />
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zVSciy&amp;show_icons=true&amp;cache_seconds=7200&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;bg_color=00000000&amp;hide_border=true" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/zVSciy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zVSciy&langs_count=8&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zVSciy&langs_count=8&layout=compact&theme=default&bg_color=00000000&hide_border=true" />
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zVSciy&langs_count=8&layout=compact&theme=default&bg_color=00000000&hide_border=true" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zVSciy&amp;langs_count=8&amp;layout=compact&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=00000000&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zVSciy&amp;langs_count=8&amp;layout=compact&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true" />
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zVSciy&amp;langs_count=8&amp;layout=compact&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;bg_color=00000000&amp;hide_border=true" alt="Top Languages" />
     </picture>
   </a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zVSciy&theme=github-dark-blue&background=00000000&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=zVSciy&theme=default&background=00000000&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=zVSciy&theme=default&background=00000000&hide_border=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zVSciy&amp;theme=github-dark-blue&amp;background=00000000&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=zVSciy&amp;theme=default&amp;background=00000000&amp;hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=zVSciy&amp;theme=github-dark-blue&amp;background=00000000&amp;hide_border=true" alt="GitHub Streak" />
   </picture>
 </p>
 
